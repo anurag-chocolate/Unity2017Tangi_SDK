@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chocolate Integration", "Assembly-CSharp-firstpass.csproj", "{04B31E11-7EA0-F102-7BDA-13E703F6936A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chocolate Integration", "Assembly-CSharp.csproj", "{4D196FB3-18E6-83CC-9AE8-DDD94F26C295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04B31E11-7EA0-F102-7BDA-13E703F6936A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04B31E11-7EA0-F102-7BDA-13E703F6936A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04B31E11-7EA0-F102-7BDA-13E703F6936A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04B31E11-7EA0-F102-7BDA-13E703F6936A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D196FB3-18E6-83CC-9AE8-DDD94F26C295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D196FB3-18E6-83CC-9AE8-DDD94F26C295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D196FB3-18E6-83CC-9AE8-DDD94F26C295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D196FB3-18E6-83CC-9AE8-DDD94F26C295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
